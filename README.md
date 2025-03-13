@@ -10,7 +10,7 @@ Este repositório contém o meu currículo em formato PDF. Nele, você poderá e
   
 ## Contato
 
-- Email: [gerleidson.bomfim@gmail.com]
+- Email: gerleidson.bomfim@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/gerleidsonBomfim](https://www.linkedin.com/in/gerleidsonBomfim)
 - GitHub: [https://github.com/gerleidson](https://github.com/gerleidson)
 
